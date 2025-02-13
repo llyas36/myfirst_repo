@@ -1,6 +1,6 @@
 # Simple Portfolio Project 🎨💼
 
-This is a personal portfolio website that showcases everything about me, including my skills, projects, and experiences. It was created as part of a web development project for my university coursework.
+This is a personal portfolio website that showcases everything about me, It is a school project, including my skills, projects, and experiences. It was created as part of a web development project for my university coursework.
 
 ## 🛠 Technologies Used
 - **HTML** - Structure of the website  
